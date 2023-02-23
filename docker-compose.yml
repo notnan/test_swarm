@@ -23,4 +23,4 @@ services:
 
 networks:
   durbok-net:
-    external: true
+    driver: overlay
